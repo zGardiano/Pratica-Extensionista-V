@@ -1,1 +1,6 @@
-# Pr-tica-Extensionista-V
+# Prática Extensionista V
+
+# Integrantes
+FELIPE AROSTI FELISBINO - 839913
+JOÃO VITOR ALONSO GARDIANO - 839588
+LEONE CARPINE DA SILVA - 840588
